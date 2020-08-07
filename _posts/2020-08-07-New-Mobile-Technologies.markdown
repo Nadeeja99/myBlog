@@ -3,7 +3,9 @@ Today I’m talking about Latest Mobile Technologies.
 Let’s go then!
 1. Artificial intelligence (AI)
 Image for post
-Artificial Intelligence is the study and development of intelligent machines and computer programs that are able to simulate human intelligence. So, we are seeing more and more progress in artificial intelligence, especially in the mobile phone sector. Mobile industry trends have focused on artificial intelligence since 2017 when Apple allowed developers to integrate voice assistant Siri into their applications.
+Artificial Intelligence is the study and development of intelligent machines and computer programs that are able to simulate human intelligence. 
+So, we are seeing more and more progress in artificial intelligence, especially in the mobile phone sector. 
+Mobile industry trends have focused on artificial intelligence since 2017 when Apple allowed developers to integrate voice assistant Siri into their applications.
 These are some of the most famous smartphone features with AI
 VOICE ASSISTANTS
 Current smartphones have basic functionality for virtual assistants who are improving rapidly. Voice Assistants like Samsung’s Bixby, Google Assistant, and Amazon Alexa all use data to understand their users’ voice commands and to perform a variety of tasks. With Bixby Vision, users can learn details about objects and locations, find out how to purchase items they see in the real world, and translate languages, among many other tasks.
