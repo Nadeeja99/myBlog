@@ -10,18 +10,18 @@ I like to write about Tech and New Trends here.
 
 Stay tuned with me!!!
 
-### Contact me:
+### Contact with me:
 
-**LinkedIn:
+**LinkedIn:**
 [Click](https://www.linkedin.com/in/nadeeja-perera/)
 
-**Facebook:
+**Facebook:**
 [Click](https://www.facebook.com/Nadeeja.Hansaka)
 
-**Github
+**Github**
 [Click](https://github.com/Nadeeja99)
 
-**Medium
+**Medium**
 [Click](https://medium.com/nadeeja-perera)
 
-Thank you.
+***Thank you***
