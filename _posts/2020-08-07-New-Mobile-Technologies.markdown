@@ -1,21 +1,22 @@
-Are you interested about new trends? Well then this is for you!!!!!
-Today I’m talking about Latest Mobile Technologies.
+Are you interested about new trends? <br> 
+Well then this is for you!!!!!<br>
+Today I’m talking about Latest Mobile Technologies.<br>
 Let’s go then!
-1. Artificial intelligence (AI)
-Image for post
-Artificial Intelligence is the study and development of intelligent machines and computer programs that are able to simulate human intelligence. 
-So, we are seeing more and more progress in artificial intelligence, especially in the mobile phone sector. 
-Mobile industry trends have focused on artificial intelligence since 2017 when Apple allowed developers to integrate voice assistant Siri into their applications.
-These are some of the most famous smartphone features with AI
-VOICE ASSISTANTS
-Current smartphones have basic functionality for virtual assistants who are improving rapidly. Voice Assistants like Samsung’s Bixby, Google Assistant, and Amazon Alexa all use data to understand their users’ voice commands and to perform a variety of tasks. With Bixby Vision, users can learn details about objects and locations, find out how to purchase items they see in the real world, and translate languages, among many other tasks.
-2. AI IN THE CAMERA
-AI is already in the camera of most high-end smartphones. Artificial intelligence algorithms help determine whether you capture a landscape or a person and adjust the type of filter for best results. Artificial intelligence can also help you find the right lens for the lighting conditions.
-3. FACIAL RECOGNITION
-AI facial recognition feature is a security feature that allows users to unlock their phone using their face. Facial recognition is possible through the use of artificial intelligence algorithms and machine learning to identify the faces of owners trying to unlock their phone.
-4. IDENTIFICATION OF IMAGES
-Artificial intelligence allows the system to recognize images, offer labels and group them into albums. It also helps to keep track of images because they can be searched using keywords. This feature is available in the cloud via Google Photos.
-2. Augmented Reality
+<h2>1. Artificial intelligence (AI)</h2>
+![AI img!](/assets/images/AI.jpg)
+<p>Artificial Intelligence is the study and development of intelligent machines and computer programs that are able to simulate human intelligence. </p>
+<p>So, we are seeing more and more progress in artificial intelligence, especially in the mobile phone sector. 
+Mobile industry trends have focused on artificial intelligence since 2017 when Apple allowed developers to integrate voice assistant Siri into their applications.</p><br>
+These are some of the most famous smartphone features with AI<p>
+***1.VOICE ASSISTANTS ***<br>
+Current smartphones have basic functionality for virtual assistants who are improving rapidly. Voice Assistants like Samsung’s Bixby, Google Assistant, and Amazon Alexa all use data to understand their users’ voice commands and to perform a variety of tasks. With Bixby Vision, users can learn details about objects and locations, find out how to purchase items they see in the real world, and translate languages, among many other tasks.<br>
+***2. AI IN THE CAMERA***<br>
+AI is already in the camera of most high-end smartphones. Artificial intelligence algorithms help determine whether you capture a landscape or a person and adjust the type of filter for best results. Artificial intelligence can also help you find the right lens for the lighting conditions.<br>
+***3. FACIAL RECOGNITION***<br>
+AI facial recognition feature is a security feature that allows users to unlock their phone using their face. Facial recognition is possible through the use of artificial intelligence algorithms and machine learning to identify the faces of owners trying to unlock their phone.<br>
+***4. IDENTIFICATION OF IMAGES***<br>
+Artificial intelligence allows the system to recognize images, offer labels and group them into albums. It also helps to keep track of images because they can be searched using keywords. This feature is available in the cloud via Google Photos.</p>
+<h2>2. Augmented Reality</h2>
 Image for post
 Augmented reality, commonly known as “AR,” is computer-generated content overlaid on a real-world environment. A growing number of mobile applications will integrate the functionality of Augmented Reality (AR) in 2020 and this trend will not disappear.
 These types of applications involve the real world in the application.
