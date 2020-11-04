@@ -11,16 +11,32 @@ Today I’m talking about Latest Mobile Technologies.
 Mobile industry trends have focused on artificial intelligence since 2017 when Apple allowed developers to integrate voice assistant Siri into their applications.</p>
 <p>These are some of the most famous smartphone features with AI</p>
 
-<p>***1.VOICE ASSISTANTS***<br>
+<p>
+
+***1.VOICE ASSISTANTS***
+
+<br>
 Current smartphones have basic functionality for virtual assistants who are improving rapidly. Voice Assistants like Samsung’s Bixby, Google Assistant, and Amazon Alexa all use data to understand their users’ voice commands and to perform a variety of tasks. With Bixby Vision, users can learn details about objects and locations, find out how to purchase items they see in the real world, and translate languages, among many other tasks.</p>
 
-<p>***2. AI IN THE CAMERA***<br>
+<p>
+
+***2. AI IN THE CAMERA***
+
+<br>
 AI is already in the camera of most high-end smartphones. Artificial intelligence algorithms help determine whether you capture a landscape or a person and adjust the type of filter for best results. Artificial intelligence can also help you find the right lens for the lighting conditions.</p>
 
-<p>***3. FACIAL RECOGNITION***<br>
+<p>
+
+***3. FACIAL RECOGNITION***
+
+<br>
 AI facial recognition feature is a security feature that allows users to unlock their phone using their face. Facial recognition is possible through the use of artificial intelligence algorithms and machine learning to identify the faces of owners trying to unlock their phone.</p>
 
-<p>***4. IDENTIFICATION OF IMAGES***<br>
+<p>
+
+***4. IDENTIFICATION OF IMAGES***
+
+<br>
 Artificial intelligence allows the system to recognize images, offer labels and group them into albums. It also helps to keep track of images because they can be searched using keywords. This feature is available in the cloud via Google Photos.</p>
 
 <h2>2. Augmented Reality</h2>
@@ -59,7 +75,7 @@ This technology offers a special security approach that can help you to protect 
 
 <p>In 2020 and the following year, specialists expect an increase in blockchain-based mobile solutions, as devices can serve as blockchain nodes.</p>
 
-4. IoT Apps
+<h2>4. IoT Apps</h2>
 
 ![IOT img!](/assets/images/iot.jpeg)
 
@@ -68,17 +84,23 @@ This technology offers a special security approach that can help you to protect 
 
 **IoT apps allow you to:**
 
+<br>
+
 * Monitor readings of devices and sensors
 * Analyze data, build charts and reports
 * Manage devices (open/close, turn on/off, trigger alarms, and more)
 
 <p>
 
-**Wearables:**  <br>
+**Wearables:**  
+
+<br>
 Wearables are an integral part of IoT solutions. By using connections like Bluetooth and Wi-Fi, it is possible to connect wearables like wristwatches, eyeglasses and even bands to your smartphones. This way, any form of data can be exchanged between the two devices.</p>
 <p>
 
-**Healthcare:**  <br>
+**Healthcare:**  
+
+<br>
 Medical devices are connected to sensors which obtain health data from the patient which is transferred to the mobile app. This data can be transferred remotely to the doctor or family members in case of emergency. This way, the need to visit the hospital for minor issues is substantially reduced. </p>
 
 <p>These Mobile IoT networks support devices requiring broad coverage, a long battery life and low cost, yet secure, connectivity across both rural and urban locations.</p>
@@ -92,10 +114,14 @@ Medical devices are connected to sensors which obtain health data from the patie
 <p>A cloud app is an application that operates through the cloud and has a unique combination of characteristics from both, pure desktop apps and pure web apps.</p>
 
 **How the Cloud Apps work?**
+
 <p>In a remote data centre, usually managed by third parties, data is stored and computation cycles are performed. The availability, integration, and security aspects are offered by a backend that also supports various access methods.</p>
 <p>Cloud apps are known for their responsiveness and the fact that they must not be permanently stored on the device. These applications can work well online but need to be updated online.</p>
 
 **Advantages of Mobile Cloud Apps**
+
+<br>
+
 * Easier to stick to the budget as they are cheaper
 * Secure functioning across multiple devices
 * Much more computing power
@@ -105,12 +131,18 @@ Medical devices are connected to sensors which obtain health data from the patie
 
 <p>
 
-**Dropbox:** This application is a file-hosting service which offers cloud storage. It lets the users access their files in the Dropbox from their Android devices, which can be synced to other computers or mobile devices.<br>
-**Amazon Cloud Player:** This is used to store and play MP3 files. Here the Cloud Drive acts as a hard drive set in the cloud. Users can play their MP3 files via the web or they can conveniently stream them on their Android devices using Amazon ‘Cloud’ MP3 application.
+**Dropbox:** 
+
+This application is a file-hosting service which offers cloud storage. It lets the users access their files in the Dropbox from their Android devices, which can be synced to other computers or mobile devices.
+
+<br>
+
+**Amazon Cloud Player:** 
+
+This is used to store and play MP3 files. Here the Cloud Drive acts as a hard drive set in the cloud. Users can play their MP3 files via the web or they can conveniently stream them on their Android devices using Amazon ‘Cloud’ MP3 application.
 </p>
 <p>An increasing number of mobile apps will become cloud-based.</p>
 
 <h2>Conclusion</h2>
 <p>We are in the 3rd decade in the 21st Century and today Technologies are now in the centre of attention for all industries. So mobile technology is one of the fastest-growing industry in the world. These are the some of trending technologies in the mobile sector.<p>
-<p>I hope you guys found this article informative. Please, feel free to express your ideas in the comment section below.</p>
-<p>Best of luck to you on your journey to success.</p>
+<p>I hope you guys found this article informative. Best of luck to you on your journey to success. </p>
